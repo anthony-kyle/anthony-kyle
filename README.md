@@ -14,7 +14,7 @@ Have a look below to some of the things I have created/collaborated on.
 
 ## Personal Projects
 - https://pilcrowmicro.com/
-- https://pilcrowmicro.com/enspiralled/ | [View Repo](https://github.com/anthony-kyle/enspiraled)
+- https://pilcrowmicro.com/enspiralled/ | [View Repo](https://github.com/anthony-kyle/enspiralled)
 - https://pilcrowmicro.com/calculator/  | [View Repo](https://github.com/anthony-kyle/calculator)
 - https://pilcrowmicro.com/minesweeper/ | [View Repo](https://github.com/anthony-kyle/minesweeper)
 - http://pilcrowmicro.com/patatap/ | [View Repo](https://github.com/anthony-kyle/patatap)
