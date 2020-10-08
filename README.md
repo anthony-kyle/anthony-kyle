@@ -13,6 +13,7 @@ I aspire to join a diverse and inclusive team, where personal and professional g
 Have a look below to some of the things I have created/collaborated on. 
 
 ## Personal Projects
+| --- | --- |
 | https://pilcrowmicro.com/ | |
 | https://pilcrowmicro.com/enspiralled/ | [View Repo](https://github.com/anthony-kyle/enspiralled) |
 | https://pilcrowmicro.com/calculator/  | [View Repo](https://github.com/anthony-kyle/calculator) |
@@ -25,6 +26,7 @@ Have a look below to some of the things I have created/collaborated on.
 
 
 ## Collaborative Projects
+| --- | --- |
 | https://KereruGo.herokuapp.com | [View Repo](https://github.com/roa-2020/kererugo) |
 | https://JokeMeDaddy.herokuapp.com | [View Repo](https://github.com/roa-2020/joke-me-daddy) |
 | https://UTIZ.herokuapp.com | [View Repo](https://github.com/roa-2020/utiz) |
