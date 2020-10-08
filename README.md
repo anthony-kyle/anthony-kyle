@@ -26,6 +26,6 @@ Have a look below to some of the things I have created/collaborated on.
 
 ## Collaborative Projects
 - https://KereruGo.herokuapp.com | [View Repo](https://github.com/roa-2020/kererugo)
-- https://JokeMeDaddy.herokuapp.com | [View Repo](https://github.com/roa-2020/jokemedaddy)
+- https://JokeMeDaddy.herokuapp.com | [View Repo](https://github.com/roa-2020/joke-me-daddy)
 - https://UTIZ.herokuapp.com | [View Repo](https://github.com/roa-2020/utiz)
-- https://show-me-the-money-now.herokuapp.com/ | [View Repo](https://github.com/roa-2020/ShowMeTheMoney)
+- https://show-me-the-money-now.herokuapp.com/
