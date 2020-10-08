@@ -16,7 +16,7 @@ Have a look below to some of the things I have created/collaborated on.
 - https://pilcrowmicro.com/
 - https://pilcrowmicro.com/enspiralled/
 - https://pilcrowmicro.com/calculator/
-- https://pilcrowmicro.com/minesweeper/ | Repo [https://github.com/anthony-kyle/minesweeper]
+- https://pilcrowmicro.com/minesweeper/ | [Repo][https://github.com/anthony-kyle/minesweeper]
 - http://pilcrowmicro.com/patatap/
 - http://pilcrowmicro.com/colorGame/
 - https://pilcrowmicro.com/dvd-bounce/
