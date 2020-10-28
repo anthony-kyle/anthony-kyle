@@ -12,7 +12,7 @@ I aspire to join a diverse and inclusive team, where personal and professional g
 
 Have a look below to some of the things I have created/collaborated on. 
 
-## Personal Projects
+## Personal Projects 
 - https://pilcrowmicro.com/ 
 - https://pilcrowmicro.com/enspiralled/ | [View Repo](https://github.com/anthony-kyle/enspiralled) 
 - https://pilcrowmicro.com/calculator/  | [View Repo](https://github.com/anthony-kyle/calculator) 
@@ -22,6 +22,9 @@ Have a look below to some of the things I have created/collaborated on.
 - https://pilcrowmicro.com/dvd-bounce/ | [View Repo](https://github.com/anthony-kyle/dvd-bounce) 
 - https://pilcrowmicro.com/colorSwatch/ | [View Repo](https://github.com/anthony-kyle/colorSwatch) 
 - http://pilcrowmicro.com/xkcd-react/ | [View Repo](https://github.com/anthony-kyle/xkcd-react) 
+- https://pilcrowmicro.com/vue/ | [View Repo](https://github.com/anthony-kyle/vueproject)
+- https://pilcrowmicro.com/api/v1/cars | [View Repo](https://github.com/anthony-kyle/express_mysql)
+
 
 
 ## Collaborative Projects
