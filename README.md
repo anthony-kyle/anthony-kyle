@@ -12,6 +12,9 @@ I aspire to join a diverse and inclusive team, where personal and professional g
 
 Have a look below to some of the things I have created/collaborated on. 
 
+## Freelance Projects
+- https://sweetscape.co.nz
+
 ## Personal Projects 
 - https://pilcrowmicro.com/ 
 - https://pilcrowmicro.com/enspiralled/ | [View Repo](https://github.com/anthony-kyle/enspiralled) 
@@ -24,8 +27,6 @@ Have a look below to some of the things I have created/collaborated on.
 - http://pilcrowmicro.com/xkcd-react/ | [View Repo](https://github.com/anthony-kyle/xkcd-react) 
 - https://pilcrowmicro.com/vue/ | [View Repo](https://github.com/anthony-kyle/vueproject)
 - https://pilcrowmicro.com/api/v1/cars | [View Repo](https://github.com/anthony-kyle/express_mysql)
-
-
 
 ## Collaborative Projects
 - https://KereruGo.herokuapp.com | [View Repo](https://github.com/roa-2020/kererugo) 
