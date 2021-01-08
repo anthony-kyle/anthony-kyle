@@ -17,19 +17,19 @@ Have a look below to some of the things I have created/collaborated on.
 
 ## Personal Projects 
 - https://pilcrowmicro.com/ 
-- https://apps.pilcrowmicro.com/enspiralledApp/ | [View Repo](https://github.com/anthony-kyle/enspiralled) 
-- https://apps.pilcrowmicro.com/calculator/  | [View Repo](https://github.com/anthony-kyle/calculator) 
-- https://apps.pilcrowmicro.com/minesweeper/ | [View Repo](https://github.com/anthony-kyle/minesweeper) 
-- http://apps.pilcrowmicro.com/patatap/ | [View Repo](https://github.com/anthony-kyle/patatap) 
-- http://apps.pilcrowmicro.com/colorGame/ | [View Repo](https://github.com/anthony-kyle/colorGame) 
-- https://apps.pilcrowmicro.com/dvd-bounce/ | [View Repo](https://github.com/anthony-kyle/dvd-bounce) 
-- https://apps.pilcrowmicro.com/colorSwatch/ | [View Repo](https://github.com/anthony-kyle/colorSwatch) 
-- http://apps.pilcrowmicro.com/xkcd/ | [View Repo](https://github.com/anthony-kyle/xkcd-react) 
-- https://apps.pilcrowmicro.com/vue/ | [View Repo](https://github.com/anthony-kyle/vueproject)
-- https://apps.pilcrowmicro.com/api/v1/cars | [View Repo](https://github.com/anthony-kyle/express_mysql)
+- [Enspiralled](https://apps.pilcrowmicro.com/enspiralledApp/) | [View Repo](https://github.com/anthony-kyle/enspiralled) 
+- [Calculator](https://apps.pilcrowmicro.com/calculator/)  | [View Repo](https://github.com/anthony-kyle/calculator) 
+- [Minesweeper](https://apps.pilcrowmicro.com/minesweeper/) | [View Repo](https://github.com/anthony-kyle/minesweeper) 
+- [Patatap](https://apps.pilcrowmicro.com/patatap/) | [View Repo](https://github.com/anthony-kyle/patatap) 
+- [Color Game](https://apps.pilcrowmicro.com/colorGame/) | [View Repo](https://github.com/anthony-kyle/colorGame) 
+- [DVD Screensaver](https://apps.pilcrowmicro.com/dvd-bounce/) | [View Repo](https://github.com/anthony-kyle/dvd-bounce) 
+- [Color Swatch](https://apps.pilcrowmicro.com/colorSwatch/) | [View Repo](https://github.com/anthony-kyle/colorSwatch) 
+- [XKCD Portal](https://apps.pilcrowmicro.com/xkcd/) | [View Repo](https://github.com/anthony-kyle/xkcd-react) 
+- [Vue DB](https://apps.pilcrowmicro.com/vue/) | [View Repo](https://github.com/anthony-kyle/vueproject)
+- [REST API](https://apps.pilcrowmicro.com/api/v1/cars) | [View Repo](https://github.com/anthony-kyle/express_mysql)
 
 ## Collaborative Projects
-- https://KereruGo.herokuapp.com | [View Repo](https://github.com/roa-2020/kererugo) 
-- https://JokeMeDaddy.herokuapp.com | [View Repo](https://github.com/roa-2020/joke-me-daddy) 
-- https://UTIZ.herokuapp.com | [View Repo](https://github.com/roa-2020/utiz) 
-- https://show-me-the-money-now.herokuapp.com/ 
+- [KereruGo - Native Bird Encounters](https://KereruGo.herokuapp.com) | [View Repo](https://github.com/roa-2020/kererugo) 
+- [Joke Me Daddy - Dad Joke Randomizer](https://JokeMeDaddy.herokuapp.com) | [View Repo](https://github.com/roa-2020/joke-me-daddy) 
+- [You Tomato I Zomato - Consuming Zomato API](https://UTIZ.herokuapp.com) | [View Repo](https://github.com/roa-2020/utiz) 
+- [Show Me The Money Now - Meeting Cost Tracker](https://show-me-the-money-now.herokuapp.com/) 
