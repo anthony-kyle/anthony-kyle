@@ -13,7 +13,7 @@ I aspire to join a diverse and inclusive team, where personal and professional g
 Have a look below to some of the things I have created/collaborated on. 
 
 ## Freelance Projects
-- https://sweetscape.co.nz
+- [Sweetscape](https://sweetscape.pilcrowmicro.com)
 
 ## Personal Projects 
 - https://pilcrowmicro.com/ 
